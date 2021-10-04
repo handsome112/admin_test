@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { createAsyncAction } from '@lib/redux';\nexport const {\n  login,\n  loginSuccess,\n  loginFail\n} = createAsyncAction('login', 'LOGIN');\nexport const {\n  logout,\n  logoutSuccess,\n  logoutFail\n} = createAsyncAction('logout', 'LogOut');","map":null,"metadata":{},"sourceType":"module"}

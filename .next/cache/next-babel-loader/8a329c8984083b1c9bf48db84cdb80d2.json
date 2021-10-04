@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { createAction } from '@lib/redux';\nexport const setReadyState = createAction('APP_STATE_SUCCESS');\nexport const resetAppState = createAction('APP_STATE_RESET');","map":null,"metadata":{},"sourceType":"module"}

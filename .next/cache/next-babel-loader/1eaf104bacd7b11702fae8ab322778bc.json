@@ -1,0 +1,1 @@
+{"ast":null,"code":"import ScrollBar from 'react-perfect-scrollbar';\nimport './scroll-bar.less';\nexport default ScrollBar;","map":null,"metadata":{},"sourceType":"module"}
